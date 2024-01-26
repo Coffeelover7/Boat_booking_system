@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0eee19;
+    padding: 20px;
+    color: white;
+  }
+  
+  .navbar-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .website-name {
+    margin-right: auto;
+  }
+  
+  .date-time {
+    margin-left: auto;
+  }

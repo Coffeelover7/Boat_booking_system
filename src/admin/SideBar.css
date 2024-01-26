@@ -1,0 +1,30 @@
+.sidebar {
+    float: left;
+    border: 3px solid transparent;
+    height: 100%;
+    width: 10%;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 20px;
+    align-items: left;
+  }
+  
+  .sidebar ul li {
+    margin-bottom: 10px;
+    align-items: left;
+  }
+  
+  .sidebar ul li:hover {
+    background-color: #0eee19;
+  }
+  
+  .sidebar ul li:hover a {
+    color: white;
+    
+  }
+  
+  .sidebar ul li i {
+    margin-right: 10px;
+  }
